@@ -26,4 +26,6 @@ module.exports = {
     scrollRestoration: true,
     largePageDataBytes: 256000,
   },
+
+  basePath: '/jellyseerr'
 };
